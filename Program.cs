@@ -8,5 +8,9 @@ namespace Project
         {
 
         }
+        public static bool IsPositive(int num)
+        {
+            return num > 0;
+        }
     }
 }
